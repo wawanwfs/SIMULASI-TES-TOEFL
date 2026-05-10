@@ -138,7 +138,7 @@ body {
 }
 
 .home-portal-link:hover {
-  background: rgba(232, 168, 56, 0.28);
+   background: rgba(232, 168, 56, 0.34);
   color: #ffffff;
   transform: translateY(-1px);
 }
