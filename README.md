@@ -4,6 +4,10 @@ An open-source TOEFL ITP-like practice website for academic English learning and
 
 Created by **Nas**.
 
+## Live Demo
+
+GitHub Pages: https://wawanwfs.github.io/SIMULASI-TES-TOEFL/
+
 ## Overview
 
 This project is designed to help students practice for TOEFL ITP-like tests commonly used for university graduation, thesis requirements, or academic English preparation.
@@ -174,6 +178,10 @@ Click Open with Live Server.
 Option 2: GitHub Pages
 
 This project is ready to be hosted with GitHub Pages.
+
+Live URL:
+
+https://wawanwfs.github.io/SIMULASI-TES-TOEFL/
 
 Recommended settings:
 
